@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(240,240,240);
+    font-family: Arial;
+    font-weight: Bold;
+}
+label {
+    color: rgb(255,102,0);
+    background-color: rgb(0,0,0);
+    width: auto;
+    display: block; 
+    min-height: 100%;
+    height: auto !important; 
+    text-align: center;
+    
+}
+table{
+    height:6%;
+    width:1170px; 
+    border: 1px solid rgb(255,102,0);
+}

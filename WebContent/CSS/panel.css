@@ -1,0 +1,13 @@
+panel{ 
+    display:block; 
+}
+panel element{
+    display:block;
+}
+div{
+  position: relative;
+  top : 20px;
+  bottom: 20px;
+  height: 482px;
+  width: 1175px;
+}

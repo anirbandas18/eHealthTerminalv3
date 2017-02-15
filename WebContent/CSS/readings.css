@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(240,240,240);
+    font-family: Arial;
+    font-weight: normal;
+}
+th,td {
+    padding: 10px;
+    height : 100%;
+    width : 850px;
+    border : 2px solid rgb(255,102,0);
+    text-align: justify;
+}
+.fit {
+    overflow-y: auto;
+    height: 410px;
+}
+.fit-small {
+    overflow-y: auto;
+    width: 335px;
+}
+
